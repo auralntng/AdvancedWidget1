@@ -1,9 +1,13 @@
 # AdvancedWidget1
 AdvancedWidget
 nama : aura lintang alif salsabila
+
 kelas : XI RPL 2
+
 no urut : 04
+
 nis : 4680/1399.070
+
 sekolah : SMK TELKOM Malang
 
 
